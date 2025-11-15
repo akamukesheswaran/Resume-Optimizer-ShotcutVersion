@@ -1,0 +1,1 @@
+- To run the demo "streamlit run app.py" run this in your terminal
